@@ -4,7 +4,7 @@ email: bradyliles@outlook.com
 description: "Brady Liles GitHub Repository and Blog"
 logo_location: "https://avatars2.githubusercontent.com/u/3682933?v=3&s=460"
 
-baseurl: /
+#baseurl:
 url: bradyliles.github.io
 
 # Build settings
