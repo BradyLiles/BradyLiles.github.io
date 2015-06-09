@@ -3,7 +3,7 @@ layout: post
 title:  "Open Discussion on Jekyll!"
 date:   2015-06-08 12:00:00
 tags: test comments, discussion, disqus
-categories: testing, 
+categories: testing
 comments: true
 ---
 We can now have a great conversation on a static site using <a href="https://disqus.com/">Disqus!</a>
